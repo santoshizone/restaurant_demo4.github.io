@@ -704,6 +704,11 @@ h2 span{
 
 @media only screen and (max-width: 600px) {
 
+  #Navbar1{
+    background: red;
+  }
+  
+
   .box{
     width: 70%;
   }
